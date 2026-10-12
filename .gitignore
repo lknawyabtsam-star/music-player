@@ -1,0 +1,15 @@
+# Music files (large / copyrighted) - keep the folder, ignore the songs
+music/*
+!music/.gitkeep
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

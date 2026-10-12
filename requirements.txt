@@ -1,0 +1,2 @@
+pygame>=2.5
+mutagen>=1.47
